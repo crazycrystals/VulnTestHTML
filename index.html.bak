@@ -1,0 +1,5 @@
+<h1> Operating Systems </h1>
+<a href="windows.html"><p>Windows</p></a>
+<a href="linux.html"><p>Linux</p></a>
+<h6> Note: Linux may work for mac, but I have no gaurantee as I own no mac devices to test on.</h6>
+<! And no, im not doing chromeOS. look at those file paths and tell me theres no random number generator going on there. !>
